@@ -20,5 +20,5 @@
 - Aufwandsschätzung: [z. B. Story Points]
 - Abhängigkeiten: [z. B. andere Issues, externe Systeme]
 
-/label ~"type::user-story"
+/label ~"user-story"
 /label ~"status::backlog"
